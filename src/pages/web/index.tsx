@@ -1,6 +1,6 @@
 import Card from "@foodbag/web/components/Card";
 import React from "react";
-import "./globals.css";
+import "./global.css";
 export const index = () => {
   const render = () => {
     let cards = [];
